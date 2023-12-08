@@ -1,0 +1,10 @@
+﻿  army.cpp
+  game.cpp
+C:\Users\hheis\Downloads\assignment-3-alien-attack-v1-HankHeiselbetz-master\assignment-3-alien-attack-v1-HankHeiselbetz-master\game\game.cpp(73,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hheis\Downloads\assignment-3-alien-attack-v1-HankHeiselbetz-master\assignment-3-alien-attack-v1-HankHeiselbetz-master\game\game.cpp(74,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hheis\Downloads\assignment-3-alien-attack-v1-HankHeiselbetz-master\assignment-3-alien-attack-v1-HankHeiselbetz-master\game\game.cpp(75,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hheis\Downloads\assignment-3-alien-attack-v1-HankHeiselbetz-master\assignment-3-alien-attack-v1-HankHeiselbetz-master\game\game.cpp(75,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  gameFunctions.cpp
+  pixie.cpp
+  Generating Code...
+  game.vcxproj -> C:\Users\hheis\Downloads\assignment-3-alien-attack-v1-HankHeiselbetz-master\assignment-3-alien-attack-v1-HankHeiselbetz-master\Debug\Alien Attack.exe
